@@ -52,18 +52,3 @@ This project focuses on MLOps practices by integrating cloud resources for heavy
 4.  **Deployment:**
     * The trained model is downloaded/loaded into the Streamlit app.
     * App hosted on Streamlit Cloud.
-
----
-
-## 📂 Project Structure
-
-```text
-ml-project2-flight-price-prediction-using-aws-sagemaker/
-├── .streamlit/             # Streamlit configuration
-├── src/                    # Source code for preprocessing/training
-├── data/                   # Local raw/processed data (usually ignored by git)
-├── notebooks/              # Jupyter notebooks for EDA and SageMaker experiments
-├── app.py                  # Streamlit application entry point
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── .gitignore
