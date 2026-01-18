@@ -4,4 +4,6 @@ matplotlib
 seaborn
 wordcloud
 scikit-learn
-feature_engine
+feature-engine
+joblib
+xgboost
